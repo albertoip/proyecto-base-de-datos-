@@ -1,0 +1,20 @@
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\bin\Debug\ProyectoFinalBDD.exe.config
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\bin\Debug\ProyectoFinalBDD.exe
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\bin\Debug\ProyectoFinalBDD.pdb
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.csprojAssemblyReference.cache
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.Form1.resources
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.Properties.Resources.resources
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.csproj.GenerateResource.cache
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.csproj.CoreCompileInputs.cache
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.exe
+C:\Users\hitma\source\repos\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.pdb
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\bin\Debug\ProyectoFinalBDD.exe.config
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\bin\Debug\ProyectoFinalBDD.exe
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\bin\Debug\ProyectoFinalBDD.pdb
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.csprojAssemblyReference.cache
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.Form1.resources
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.Properties.Resources.resources
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.csproj.GenerateResource.cache
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.csproj.CoreCompileInputs.cache
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.exe
+C:\Users\hitma\Desktop\Proyecto final\ProyectoFinalBDD\ProyectoFinalBDD\obj\Debug\ProyectoFinalBDD.pdb
